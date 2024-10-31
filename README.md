@@ -14,7 +14,6 @@ Andre oversikter over datakilder
 * [Elhub åpne datasett](https://elhub.no/data/apnedata/) - tall om bla. strømproduksjon, strømforbruk og markedsprosesser på csv og xlsx format
 * [eSett Open Data](https://opendata.esett.com/) - struktur og markedsdata for nordiske strøm-markedet
 * [NordPool Data](https://data.nordpoolgroup.com/auction/day-ahead/prices) - dataportal (og udokumentert API) for bl.a. spotpriser
-* https://www.ssb.no/energi-og-industri/energi
 * [strompriser.no](https://www.strompriser.no/artikler/api-for-strompriser) - gratis api for strømpriser
 * [Hva koster strømmen API](https://www.hvakosterstrommen.no/strompris-api) - gratis api for strømpriser
 * [Tall og data fra kraftsystemet](https://www.statnett.no/for-aktorer-i-kraftbransjen/tall-og-data-fra-kraftsystemet/) - sanntid og historiske data om bl.a. flyt, import/eksport og fyllingsgrad fra Statnett
